@@ -42,3 +42,6 @@ disneyplus.com.ssl.sc.omtrdc.net
 
 # Mozilla
 getpocket.com
+
+# Dell
+www1.dell-cidr.akadns.net
