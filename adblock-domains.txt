@@ -45,3 +45,5 @@ getpocket.com
 
 # Dell
 www1.dell-cidr.akadns.net
+cdn-www.dell.com.edgekey.net
+cdn-www.dell.com.edgekey.net.globalredir.akadns.net
