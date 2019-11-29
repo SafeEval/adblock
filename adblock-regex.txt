@@ -1,0 +1,6 @@
+# Roku
+(^|\.)ads\.roku\.com$
+(^|\.)logs\.roku\.com$
+(^|\.)sw\.roku\.com$
+(^|\.)sb\.roku\.com$
+(^|\.)sr\.roku\.com$
