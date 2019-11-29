@@ -1,3 +1,6 @@
+# Uncategorized
+geolite.maxmind.com
+
 # Roku
 retail-prod.web.roku.com
 amoeba.web.roku.com
@@ -26,6 +29,7 @@ api.sr.roku.com
 api2.sr.roku.com
 customer-feedbacks.web.roku.com
 lat-services.api.data.roku.com
+c-ls.mgo-images.com
 
 # Disney+
 sanalytics.disneyplus.com
