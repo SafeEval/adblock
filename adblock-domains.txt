@@ -7,7 +7,7 @@ amoeba.web.roku.com
 api.roku.com
 assets.sr.roku.com
 austin.logs.roku.com
-#captive.roku.com
+captive.roku.com
 cloudservices.roku.com
 cooper.logs.roku.com
 doubleclick.net
